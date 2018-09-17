@@ -13,6 +13,7 @@
         <module>spring-cloud-api-1</module>
         <module>spring-cloud-service-1</module>
         <module>spring-cloud-client-feign</module>
+        <module>spring-cloud-client-feign-hystrix</module>
     </modules>
     <packaging>pom</packaging>
 
