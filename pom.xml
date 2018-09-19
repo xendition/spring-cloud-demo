@@ -14,6 +14,11 @@
         <module>spring-cloud-service-1</module>
         <module>spring-cloud-client-feign</module>
         <module>spring-cloud-client-feign-hystrix</module>
+        <module>spring-cloud-admin-server</module>
+        <module>spring-cloud-zuul</module>
+        <module>spring-cloud-config-server</module>
+        <module>spring-cloud-nacos</module>
+        <module>spring-cloud-config-client</module>
     </modules>
     <packaging>pom</packaging>
 
